@@ -26,7 +26,7 @@ https://app.diagrams.net
 
 ”共共最能产“计划当前为”揭共“计划的计划项目之一。”揭共“计划的主要创立人”揭共猕猴桃“的联系方式为：
 
-- ccprvl-kiwi@outlook.co
+- ccprvl-kiwi@outlook.com
 
 
 ## 许可证
