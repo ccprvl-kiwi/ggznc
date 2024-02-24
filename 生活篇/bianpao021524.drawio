@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" modified="2024-02-15T07:37:14.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="L_emogOwafxyUg6On5LD" version="23.1.4" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1529" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-130" y="250" width="1270" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-130" y="10" width="1110" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-28" value="刷到抖音推送春节用品&lt;br style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;刷到抖音推送烟花爆竹&lt;/span&gt;" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad7ac;strokeColor=#000000;labelBackgroundColor=#fad7ac;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="7k3T3ulYU56i4B96Nvbx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="农历春节即将到来" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fad7ac;strokeColor=#b46504;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-120" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-27" value="购买" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=#fad7ac;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7k3T3ulYU56i4B96Nvbx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-2" value="看到超响爆竹售卖" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-30" value="是" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#fad7ac;strokeColor=#000000;labelBackgroundColor=#fad7ac;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="7k3T3ulYU56i4B96Nvbx-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-6" value="是否看见&lt;b&gt;其他人也在燃放爆竹&lt;/b&gt;？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="60" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-12" value="不顾他人感受，不考虑是否惊吓他人，&lt;b&gt;直接燃放&lt;/b&gt;，过后离开现场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-23" value="导致他人受到惊吓" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7k3T3ulYU56i4B96Nvbx-12" target="7k3T3ulYU56i4B96Nvbx-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="307.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-26" value="求助无门" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#b0e3e6;strokeColor=#0e8088;labelBackgroundColor=#b0e3e6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7k3T3ulYU56i4B96Nvbx-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="341" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-25" value="享受安静生活中突然受到惊吓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="321" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-33" value="是" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7k3T3ulYU56i4B96Nvbx-32" target="7k3T3ulYU56i4B96Nvbx-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-37" value="是" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#b0e3e6;strokeColor=#0e8088;labelBackgroundColor=#b0e3e6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7k3T3ulYU56i4B96Nvbx-32" target="7k3T3ulYU56i4B96Nvbx-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-44" value="否" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;labelBackgroundColor=#b0e3e6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7k3T3ulYU56i4B96Nvbx-32" target="7k3T3ulYU56i4B96Nvbx-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-48" value="否" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;labelBackgroundColor=#b0e3e6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7k3T3ulYU56i4B96Nvbx-32" target="7k3T3ulYU56i4B96Nvbx-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="915.3846153846152" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-32" value="是否因此抑郁？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="301" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-51" value="抑郁造成严重危害" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7k3T3ulYU56i4B96Nvbx-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-36" value="重复思考、自残或心理健康受到损害" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="311" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-39" value="认为大家都在放炮，是自己的想法不合理，因此接受他们的行为" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-47" value="调整心态，保留自己的观点认同" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-50" value="调整心态并解决问题" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-53" value="被社会淘汰" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1220" y="311" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-58" value="共派" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;;fontSize=41;fontStyle=1;fontFamily=simhei;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-130" y="20" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k3T3ulYU56i4B96Nvbx-59" value="非共派" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;;fontSize=41;fontStyle=1;fontFamily=simhei;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-130" y="250" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
